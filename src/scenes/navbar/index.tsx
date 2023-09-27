@@ -1,4 +1,4 @@
-import FlexBet from '@/components/flexBet'
+import FlexBet from '@/components/flexBet';
 import EightKIcon from '@mui/icons-material/EightK';
 import { Box, Typography, useTheme } from '@mui/material'
 import React, { useState } from 'react'
